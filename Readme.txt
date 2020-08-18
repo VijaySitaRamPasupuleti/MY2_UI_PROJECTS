@@ -1,0 +1,2 @@
+NEW: This project was made using HTML and CSS to create a RESTAURANT WEBSITE. It was made by a group of 4 members. 
+SCIENTIFIC CALCULATOR: This project was made using Tkinter GUI in PYTHON to create a SCIENTIFIC CALCULATOR. It was made by a group of 3 members. 
